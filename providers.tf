@@ -1,14 +1,8 @@
 provider "aws" {
-   access_key = "${var.accessKey}"
-   secret_key = "${var.secretKey}"
-   region = "${var.region}"
+  access_key = "${var.accessKey}"
+  secret_key = "${var.secretKey}"
+  region     = "${var.region}"
 }
 
-provider "template" {
-  
-}
-
-provider "http" {
-  
-}
-
+provider "template" {}
+provider "http" {}

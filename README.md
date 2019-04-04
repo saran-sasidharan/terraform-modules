@@ -1,2 +1,2 @@
-# Learning terraform modules
-## How to use modules in terraform
+# Learning Terraform Modules
+## How to use Modules in Terraform Scripts
